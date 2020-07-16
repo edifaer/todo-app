@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/edifaer/todo-app/static/css/main.d9d9bca9.chunk.css",
-    "main.js": "/edifaer/todo-app/static/js/main.d495e4d5.chunk.js",
-    "main.js.map": "/edifaer/todo-app/static/js/main.d495e4d5.chunk.js.map",
-    "runtime-main.js": "/edifaer/todo-app/static/js/runtime-main.99bea761.js",
-    "runtime-main.js.map": "/edifaer/todo-app/static/js/runtime-main.99bea761.js.map",
-    "static/js/2.ef8b4283.chunk.js": "/edifaer/todo-app/static/js/2.ef8b4283.chunk.js",
-    "static/js/2.ef8b4283.chunk.js.map": "/edifaer/todo-app/static/js/2.ef8b4283.chunk.js.map",
-    "index.html": "/edifaer/todo-app/index.html",
-    "precache-manifest.024273f8926b5099043f2b3ecc2d3d3e.js": "/edifaer/todo-app/precache-manifest.024273f8926b5099043f2b3ecc2d3d3e.js",
-    "service-worker.js": "/edifaer/todo-app/service-worker.js",
-    "static/css/main.d9d9bca9.chunk.css.map": "/edifaer/todo-app/static/css/main.d9d9bca9.chunk.css.map",
-    "static/js/2.ef8b4283.chunk.js.LICENSE.txt": "/edifaer/todo-app/static/js/2.ef8b4283.chunk.js.LICENSE.txt"
+    "main.css": "/todo-app/static/css/main.d9d9bca9.chunk.css",
+    "main.js": "/todo-app/static/js/main.d495e4d5.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.d495e4d5.chunk.js.map",
+    "runtime-main.js": "/todo-app/static/js/runtime-main.f617a8c6.js",
+    "runtime-main.js.map": "/todo-app/static/js/runtime-main.f617a8c6.js.map",
+    "static/js/2.ef8b4283.chunk.js": "/todo-app/static/js/2.ef8b4283.chunk.js",
+    "static/js/2.ef8b4283.chunk.js.map": "/todo-app/static/js/2.ef8b4283.chunk.js.map",
+    "index.html": "/todo-app/index.html",
+    "precache-manifest.5e631307c825df516312d8beaf96680f.js": "/todo-app/precache-manifest.5e631307c825df516312d8beaf96680f.js",
+    "service-worker.js": "/todo-app/service-worker.js",
+    "static/css/main.d9d9bca9.chunk.css.map": "/todo-app/static/css/main.d9d9bca9.chunk.css.map",
+    "static/js/2.ef8b4283.chunk.js.LICENSE.txt": "/todo-app/static/js/2.ef8b4283.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99bea761.js",
+    "static/js/runtime-main.f617a8c6.js",
     "static/js/2.ef8b4283.chunk.js",
     "static/css/main.d9d9bca9.chunk.css",
     "static/js/main.d495e4d5.chunk.js"
