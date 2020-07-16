@@ -1,4 +1,9 @@
+# Todo ReactJS App
+Simple React JS task manager🔥
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Github pages
+[Todo App Link](http://edifaer.github.io/todo-app)
 
 ## Available Scripts
 
